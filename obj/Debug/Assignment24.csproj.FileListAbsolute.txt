@@ -1,0 +1,8 @@
+D:\Training\day21\Assignment24\Assignment24\bin\Debug\Assignment24.exe.config
+D:\Training\day21\Assignment24\Assignment24\bin\Debug\Assignment24.exe
+D:\Training\day21\Assignment24\Assignment24\bin\Debug\Assignment24.pdb
+D:\Training\day21\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.AssemblyReference.cache
+D:\Training\day21\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.SuggestedBindingRedirects.cache
+D:\Training\day21\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.CoreCompileInputs.cache
+D:\Training\day21\Assignment24\Assignment24\obj\Debug\Assignment24.exe
+D:\Training\day21\Assignment24\Assignment24\obj\Debug\Assignment24.pdb
